@@ -1,4 +1,5 @@
 # Exercise 4
+# Kommentar: blablabla, Github ist sch...
 # exercise: E4_Christina.py (-> wie man mit np.loadtxt files reinlädt...no paar Sachen in Klammern spezifizieren)...dann f.min(), f.max(),f.mean()
 
 def precip_overview(my_file):
